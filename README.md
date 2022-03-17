@@ -6,6 +6,7 @@ That list is not exaustive and it can be continuosly update by desired people wh
 ### The base fundamentals of everything, and reasons why we do something nowadays certainly can be obtained throught good books and you IT student, worker and so on, find and take your own path.
 
 - Microservices
+<img src="images/books/microservices/BuildingMicroservices-SanNewman.jpg" width="300" heigth="200"/>
 
 - Patterns
 
@@ -15,8 +16,6 @@ That list is not exaustive and it can be continuosly update by desired people wh
 - Tests
 
 - TDD - Test Driven Design
-
-- Project Teams
 
 - Development/Programming
 
