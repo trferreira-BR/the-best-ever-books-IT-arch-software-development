@@ -1,5 +1,5 @@
-# the-bestselling-books-IT
-# The top bestselling books of all time in IT: Enginner, Architecture, Software Processes, Software Projects, Project Teams/Organization, Patterns, DevOps, etc
+# the-bestselling-books-IT-software-development
+# The top bestselling books of all time in IT Software Development area such as: Software Engineer, Software Architecture, Software Processes, Project Teams/Organization in Software, Software Development Patterns, Software Architecture Patterns, DevOps, etc
 
 That list is not exaustive and it can be continuosly update by desired people who want to contribute with good book recomendations to read and increase the people's knowledge and expertise in the IT area.  When we think about forming new people in IT or senniors share what they know, books is a good way to start their IT journey.
 
