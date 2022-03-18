@@ -11,19 +11,29 @@ The top bestselling books of all time in IT Software Development area such as: S
 
 ### Topics
 
-- Microservices
-<img src="images/books/microservices/BuildingMicroservices-SanNewman.jpg" width="300" heigth="200"/>
+1. [ Microservices ](#Microservices)
+2. [ Patterns ](#Patterns)
 
-- Patterns
+<a name="Microservices"></a>
+## Microservices
+<img src="images/books/microservices/BuildingMicroservices-SanNewman.jpg" width="250" heigth="150"/>
+<img src="images/books/microservices/microservices-patterns.jpg" width="250" heigth="150"/>
+<img src="images/books/microservices/microservices-security-in-action.jpg" width="250" heigth="150"/>
 
-- Software/Software Projects/Software Processes
-  - Lean
+<a name="Patterns"></a>
+## Patterns
+<img src="images/books/microservices/EnterpriseIntegrationPatterns.jpg" width="250" heigth="150"/>
+<img src="images/books/microservices/PatternsOfEnterpriseApplicationArchitecture.jpg" width="250" heigth="150"/>
 
-- Tests
-  - TDD - Test-driven Development
-  - BDD - Behaviour Driven Development
+## Software/Software Projects/Software Processes
 
-- Development/Programming
+## Tests
+
+### TDD - Test-driven Development
+
+### BDD - Behaviour Driven Development
+
+## Development/Programming
 
 - SRE - Site Reliability Engineering
 
