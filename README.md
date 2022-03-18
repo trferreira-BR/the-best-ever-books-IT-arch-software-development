@@ -34,103 +34,183 @@ The best ever books IT Archtecture and Software Development area such as: Softwa
 
 <a name="Microservices"></a>
 ## Microservices
-<img src="images/books/microservices/BuildingMicroservices-SanNewman.jpg" width="250" heigth="150"/>
-<img src="images/books/microservices/microservices-patterns.jpg" width="250" heigth="150"/>
-<img src="images/books/microservices/microservices-security-in-action.jpg" width="250" heigth="150"/>
+<table>
+  <tr>
+    <td><img src="images/books/microservices/BuildingMicroservices-SanNewman.jpg" width="250" heigth="150"/></td>
+    <td><img src="images/books/microservices/microservices-patterns.jpg" width="250" heigth="150"/></td>
+    <td><img src="images/books/microservices/microservices-security-in-action.jpg" width="250" heigth="150"/></td>
+  </tr>
+</table>
 
 <a name="Patterns"></a>
 ## Patterns
-<img src="images/books/patterns/EnterpriseIntegrationPatterns.jpg" width="250" heigth="150"/>
-<img src="images/books/patterns/PatternsOfEnterpriseApplicationArchitecture.jpg" width="250" heigth="150"/>
+<table>
+  <tr>
+    <td><img src="images/books/patterns/EnterpriseIntegrationPatterns.jpg" width="250" heigth="150"/></td>
+    <td><img src="images/books/patterns/PatternsOfEnterpriseApplicationArchitecture.jpg" width="250" heigth="150"/></td>
+  </tr>
+</table>
 
 <a name="softwareDiverses"></a>
 ## Software/Software Projects/Software Processes
-<img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/DesigningData-IntensiveApplications.jpg" width="250" heigth="150"/>
-<img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/cleanAgile.jpg" width="250" heigth="150"/>
-<img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/crystalClear.jpg" width="250" heigth="150"/>
-<img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/Peopleware_ProductiveProjectsandTeams.jpg" width="250" heigth="150"/>
-<img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/ReleaseIt.jpg" width="250" heigth="150"/>
-<img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/SoftwareEngineeringAtGoogle.jpg" width="250" heigth="150"/>
-<img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/TheMythicalMan-Month.jpg" width="250" heigth="150"/>
-<img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/ThePhoenixProject.jpg" width="250" heigth="150"/>
-<img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/TheUnicornProject.jpg" width="250" heigth="150"/>
-<img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/ThinkingInSystems.jpg" width="250" heigth="150"/>
+<table>
+  <tr>
+    <td><img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/DesigningData-IntensiveApplications.jpg" width="250" heigth="150"/></td>
+    <td><img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/cleanAgile.jpg" width="250" heigth="150"/></td>
+    <td><img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/crystalClear.jpg" width="250" heigth="150"/></td>
+    <td><img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/Peopleware_ProductiveProjectsandTeams.jpg" width="250" heigth="150"/></td>
+    <td><img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/ReleaseIt.jpg" width="250" heigth="150"/></td>
+  </tr>
+  <tr>
+    <td><img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/SoftwareEngineeringAtGoogle.jpg" width="250" heigth="150"/></td>
+    <td><img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/TheMythicalMan-Month.jpg" width="250" heigth="150"/></td>
+    <td><img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/ThePhoenixProject.jpg" width="250" heigth="150"/></td>
+    <td><img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/TheUnicornProject.jpg" width="250" heigth="150"/></td>
+    <td><img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/ThinkingInSystems.jpg" width="250" heigth="150"/></td>
+  </tr>
+</table>
 
 <a name="tests"></a>
 ## Tests
-<img src="images/books/tests/EffectiveUnitTesting.jpg" width="250" heigth="150"/>
+<table>
+  <tr>
+    <td><img src="images/books/tests/EffectiveUnitTesting.jpg" width="250" heigth="150"/></td>
+  </tr>
+</table>
 
 <a name="tdd"></a>
 ## TDD - Test-driven Development
-<img src="images/books/tdd/TDD_TestDrivenDevelopment.jpg" width="250" heigth="150"/>
-<img src="images/books/tdd/TDD_TestDrivenPracticalJavaDevelopers.jpg" width="250" heigth="150"/>
+<table>
+  <tr>
+    <td><img src="images/books/tdd/TDD_TestDrivenDevelopment.jpg" width="250" heigth="150"/></td>
+    <td><img src="images/books/tdd/TDD_TestDrivenPracticalJavaDevelopers.jpg" width="250" heigth="150"/></td>
+  </tr>
+</table>
 
 <a name="developmentProgramming"></a>
 ## Development/Programming
-<img src="images/books/development_programming/Refactoring.jpg" width="250" heigth="150"/>
-<img src="images/books/development_programming/TheCleanCode.jpg" width="250" heigth="150"/>
-<img src="images/books/development_programming/TheCleanCoder.jpg" width="250" heigth="150"/>
-<img src="images/books/development_programming/ThePragmaticProgrammer.jpg" width="250" heigth="150"/>
-<img src="images/books/development_programming/WorkingEffectivelyWithLegacyCode.jpg" width="250" heigth="150"/>
+<table>
+  <tr>
+    <td><img src="images/books/development_programming/Refactoring.jpg" width="250" heigth="150"/></td>
+    <td><img src="images/books/development_programming/TheCleanCode.jpg" width="250" heigth="150"/></td>
+    <td><img src="images/books/development_programming/TheCleanCoder.jpg" width="250" heigth="150"/></td>
+    <td><img src="images/books/development_programming/ThePragmaticProgrammer.jpg" width="250" heigth="150"/></td>
+    <td><img src="images/books/development_programming/WorkingEffectivelyWithLegacyCode.jpg" width="250" heigth="150"/></td>
+  </tr>
+</table>
 
 <a name="sre"></a>
 ## SRE - Site Reliability Engineering
-<img src="images/books/sre/sre - google.jpg" width="250" heigth="150"/>
+<table>
+  <tr>
+    <td><img src="images/books/sre/sre - google.jpg" width="250" heigth="150"/></td>
+  </tr>
+</table>
 
 <a name="devOps"></a>
 ## DevOps
-<img src="images/books/devops/TheScienceOfDevOpsAccelerate.jpg" width="250" heigth="150"/>
+<table>
+  <tr>
+    <td><img src="images/books/devops/TheScienceOfDevOpsAccelerate.jpg" width="250" heigth="150"/></td>
+  </tr>
+</table>
 
 <a name="technologiesFrameworks"></a>
 ## Technologies/Frameworks
   <a name="kafka"></a>
   - ### Kafka
-  <img src="images/books/technologies_frameworks_tools/KAFKA - The Definitive Guide.jpg" width="250" heigth="150"/>
+  <table>
+    <tr>
+      <td><img src="images/books/technologies_frameworks_tools/KAFKA - The Definitive Guide.jpg" width="250" heigth="150"/></td>
+    </tr>
+  </table>
+  
   <a name="redis"></a>
   - ### Redis
-  <img src="images/books/technologies_frameworks_tools/REDIS - The Definitive Guide.jpg" width="250" heigth="150"/>
+  <table>
+    <tr>
+      <td><img src="images/books/technologies_frameworks_tools/REDIS - The Definitive Guide.jpg" width="250" heigth="150"/></td>
+    </tr>
+  </table>
 
 <a name="ddd"></a>
 ## DDD - Domain Driven Design
-<img src="images/books/ddd/DDD - Eric Evans.jpg" width="250" heigth="150"/>
-<img src="images/books/ddd/DDD - Implementing DDD - Vaughn Vernon.jpg" width="250" heigth="150"/>
-<img src="images/books/ddd/DDD Distilled - Vaughn Vernon.jpg" width="250" heigth="150"/>
+<table>
+  <tr>
+    <td><img src="images/books/ddd/DDD - Eric Evans.jpg" width="250" heigth="150"/></td>
+    <td><img src="images/books/ddd/DDD - Implementing DDD - Vaughn Vernon.jpg" width="250" heigth="150"/></td>
+    <td><img src="images/books/ddd/DDD Distilled - Vaughn Vernon.jpg" width="250" heigth="150"/></td>
+  </tr>
+</table>
 
 <a name="ci"></a>
 ## CI - Continuous Integration
-<img src="images/books/continuousIntegration/ContinuousIntegration.jpg" width="250" heigth="150"/>
+<table>
+  <tr>
+    <td><img src="images/books/continuousIntegration/ContinuousIntegration.jpg" width="250" heigth="150"/></td>
+  </tr>
+</table>
 
 <a name="cd"></a>
 ## CD - Continuous Development
-<img src="images/books/continuousDevelopment/ContinuousDelivery.jpg" width="250" heigth="150"/>
+<table>
+  <tr>
+    <td><img src="images/books/continuousDevelopment/ContinuousDelivery.jpg" width="250" heigth="150"/></td>
+  </tr>
+</table>
 
 <a name="algorithms"></a>
 ## Algorithms
-<img src="images/books/algorithms/Algorithms - Cormen.jpg" width="250" heigth="150"/>
+<table>
+  <tr>
+    <td><img src="images/books/algorithms/Algorithms - Cormen.jpg" width="250" heigth="150"/></td>
+  </tr>
+</table>
 
 <a name="programmingLanguages"></a>
 ## Programming Languages
   <a name="java"></a>
   - ### Java
-  <img src="images/books/programmingLanguages/java/effective-java-thirdEdition.jpg" width="250" heigth="150"/>
-  <img src="images/books/programmingLanguages/java/Java - ConcurrencyInPractice.jpg" width="250" heigth="150"/>
-  <img src="images/books/programmingLanguages/java/JavaPerformance-DefinitiveGuide.jpg" width="250" heigth="150"/>
+  <table>
+    <tr>
+      <td><img src="images/books/programmingLanguages/java/effective-java-thirdEdition.jpg" width="250" heigth="150"/></td>
+      <td><img src="images/books/programmingLanguages/java/Java - ConcurrencyInPractice.jpg" width="250" heigth="150"/></td>
+      <td><img src="images/books/programmingLanguages/java/JavaPerformance-DefinitiveGuide.jpg" width="250" heigth="150"/></td>
+    </tr>
+  </table>  
   
   <a name="python"></a>
   - ### Python
-  <img src="images/books/programmingLanguages/python/FluentPython.jpg" width="250" heigth="150"/>
+  <table>
+    <tr>
+      <td><img src="images/books/programmingLanguages/python/FluentPython.jpg" width="250" heigth="150"/></td>
+    </tr>
+  </table>
 
 <a name="cloud"></a>
 ## Cloud
-  <img src="images/books/cloud/CloudNativePatterns.jpg" width="250" heigth="150"/>
+  <table>
+    <tr>
+      <td><img src="images/books/cloud/CloudNativePatterns.jpg" width="250" heigth="150"/></td>
+    </tr>
+  </table> 
   
   <a name="csp"></a>
   - ### CSP - Cloud Service Provider
     <a name="azure"></a>
     
     - #### Microsoft Azure
-    <img src="images/books/cloud/cloudServiceProvider/azure/LearnAzureInAMonthOfLunches.jpg" width="250" heigth="150"/>
-    <img src="images/books/cloud/cloudServiceProvider/azure/TheAzureCloudNativeArchitectureMapbook.jpg" width="250" heigth="150"/>
+    <table>
+      <tr>
+        <td><img src="images/books/cloud/cloudServiceProvider/azure/LearnAzureInAMonthOfLunches.jpg" width="250" heigth="150"/></td>
+        <td><img src="images/books/cloud/cloudServiceProvider/azure/TheAzureCloudNativeArchitectureMapbook.jpg" width="250" heigth="150"/></td>
+      </tr>
+    </table>   
     
     <a name="aws"></a>
     - #### AWS 
+    <table>
+      <tr>
+        <td><img src="images/books/cloud/cloudServiceProvider/aws/AWSForSolutionsArchitects.jpg" width="250" heigth="150"/></td>
+      </tr>
+    </table>
