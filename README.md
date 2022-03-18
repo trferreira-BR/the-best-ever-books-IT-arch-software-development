@@ -13,6 +13,14 @@ The top bestselling books of all time in IT Software Development area such as: S
 
 1. [ Microservices ](#Microservices)
 2. [ Patterns ](#Patterns)
+3. [ Software Diverses ](#softwareDiverses)
+4. [ Tests ](#tests)
+5. [ TDD - Test-driven Development ](#tdd)
+6. [ BDD - Behaviour Driven Development ](#bdd)
+7. [ Development/Programming ](#developmentProgramming)
+8. [ SRE - Site Reliability Engineering ](#sre)
+9. [ DevOps](#devOps)
+10. [ Technologies/Frameworks ](#technologiesFrameworks)
 
 <a name="Microservices"></a>
 ## Microservices
@@ -22,41 +30,72 @@ The top bestselling books of all time in IT Software Development area such as: S
 
 <a name="Patterns"></a>
 ## Patterns
-<img src="images/books/microservices/EnterpriseIntegrationPatterns.jpg" width="250" heigth="150"/>
-<img src="images/books/microservices/PatternsOfEnterpriseApplicationArchitecture.jpg" width="250" heigth="150"/>
+<img src="images/books/patterns/EnterpriseIntegrationPatterns.jpg" width="250" heigth="150"/>
+<img src="images/books/patterns/PatternsOfEnterpriseApplicationArchitecture.jpg" width="250" heigth="150"/>
 
+<a name="softwareDiverses"></a>
 ## Software/Software Projects/Software Processes
+<img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/DesigningData-IntensiveApplications.jpg" width="250" heigth="150"/>
+<img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/LEAN_faster-faster.jpg" width="250" heigth="150"/>
+<img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/Peopleware_ProductiveProjectsandTeams.jpg" width="250" heigth="150"/>
+<img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/ReleaseIt.jpg" width="250" heigth="150"/>
+<img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/SoftwareEngineeringAtGoogle.jpg" width="250" heigth="150"/>
+<img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/TheMythicalMan-Month.jpg" width="250" heigth="150"/>
+<img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/ThePhoenixProject.jpg" width="250" heigth="150"/>
+<img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/TheUnicornProject.jpg" width="250" heigth="150"/>
+<img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/ThinkingInSystems.jpg" width="250" heigth="150"/>
 
+<a name="tests"></a>
 ## Tests
 
-### TDD - Test-driven Development
+<a name="tdd"></a>
+## TDD - Test-driven Development
 
-### BDD - Behaviour Driven Development
+<a name="bdd"></a>
+## BDD - Behaviour Driven Development
 
+<a name="developmentProgramming"></a>
 ## Development/Programming
 
-- SRE - Site Reliability Engineering
+<a name="sre"></a>
+## SRE - Site Reliability Engineering
 
-- DevOps
+<a name="devOps"></a>
+## DevOps
 
-- Techonologies/Frameworks
-  - Kafka
-  - Redis
-  - MongoDB
+<a name="technologiesFrameworks"></a>
+## Technologies/Frameworks
+  <a name="kafka"></a>
+  - ### Kafka
+  <a name="redis"></a>
+  - ### Redis
+  <a name="mongoDb"></a>
+  - ### MongoDB
 
-- DDD - Domain Driven Design
+<a name="ddd"></a>
+## DDD - Domain Driven Design
 
-- CI - Continuous Integration
+<a name="ci"></a>
+## CI - Continuous Integration
 
-- CD - Continuous Development
+<a name="cd"></a>
+## CD - Continuous Development
 
-- Algorithms
+<a name="algorithms"></a>
+## Algorithms
 
-- Programming Languages
-  - Java
-  - Python
+<a name="programmingLanguages"></a>
+## Programming Languages
+  <a name="java"></a>
+  - ### Java
+  <a name="python"></a>
+  - ### Python
 
-- Cloud
-  - CSP - Cloud Service Provider
-    - Microsoft Azure
-    - AWS 
+<a name="cloud"></a>
+## Cloud
+  <a name="csp"></a>
+  - ### CSP - Cloud Service Provider
+    <a name="azure"></a>
+    - #### Microsoft Azure
+    <a name="aws"></a>
+    - #### AWS 
