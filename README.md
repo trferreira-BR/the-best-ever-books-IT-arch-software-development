@@ -23,14 +23,13 @@ The best ever books IT Archtecture and Software Development area such as: Softwa
 5. [ TDD - Test-driven Development ](#tdd)
 6. [ Development/Programming ](#developmentProgramming)
 7. [ SRE - Site Reliability Engineering ](#sre)
-8. [ DevOps](#devOps)
-9. [ Technologies/Frameworks ](#technologiesFrameworks)
-10. [ DDD - Domain Driven Design ](#ddd)
-11. [ CI - Continuous Integration ](#ci)
-12. [ CD - Continuous Development ](#cd)
-13. [ Algorithms ](#algorithms)
-14. [ Programming Languages ](#programmingLanguages)
-15. [ Cloud ](#cloud)
+8. [ Technologies/Frameworks ](#technologiesFrameworks)
+9. [ DDD - Domain Driven Design ](#ddd)
+10. [ CI - Continuous Integration ](#ci)
+11. [ CD - Continuous Development ](#cd)
+12. [ Algorithms ](#algorithms)
+13. [ Programming Languages ](#programmingLanguages)
+14. [ Cloud ](#cloud)
 
 <a name="Microservices"></a>
 ## Microservices
@@ -104,14 +103,6 @@ The best ever books IT Archtecture and Software Development area such as: Softwa
 <table>
   <tr>
     <td><img src="images/books/sre/sre - google.jpg" width="250" heigth="150"/></td>
-  </tr>
-</table>
-
-<a name="devOps"></a>
-## DevOps
-<table>
-  <tr>
-    <td><img src="images/books/devops/TheScienceOfDevOpsAccelerate.jpg" width="250" heigth="150"/></td>
   </tr>
 </table>
 
