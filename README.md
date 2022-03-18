@@ -42,7 +42,8 @@ The best ever books IT Archtecture and Software Development area such as: Softwa
 <a name="softwareDiverses"></a>
 ## Software/Software Projects/Software Processes
 <img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/DesigningData-IntensiveApplications.jpg" width="250" heigth="150"/>
-<img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/LEAN_faster-faster.jpg" width="250" heigth="150"/>
+<img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/cleanAgile.jpg" width="250" heigth="150"/>
+<img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/crystalClear.jpg" width="250" heigth="150"/>
 <img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/Peopleware_ProductiveProjectsandTeams.jpg" width="250" heigth="150"/>
 <img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/ReleaseIt.jpg" width="250" heigth="150"/>
 <img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/SoftwareEngineeringAtGoogle.jpg" width="250" heigth="150"/>
