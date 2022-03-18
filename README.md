@@ -21,6 +21,12 @@ The best ever books IT Archtecture and Software Development area such as: Softwa
 7. [ SRE - Site Reliability Engineering ](#sre)
 8. [ DevOps](#devOps)
 9. [ Technologies/Frameworks ](#technologiesFrameworks)
+10. [ DDD - Domain Driven Design ](#ddd)
+11. [ CI - Continuous Integration ](#ci)
+12. [ CD - Continuous Development ](#cd)
+13. [ Algorithms ](#algorithms)
+14. [ Programming Languages ](#programmingLanguages)
+15. [ Cloud ](#cloud)
 
 <a name="Microservices"></a>
 ## Microservices
