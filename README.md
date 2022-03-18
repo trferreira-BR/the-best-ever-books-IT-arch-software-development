@@ -1,5 +1,6 @@
-# the-bestselling-books-IT-software-development
-The top bestselling books of all time in IT Software Development area such as: Software Engineer, Software Architecture, Software Processes, Project Teams/Organization in Software, Software Development Patterns, Software Architecture Patterns, DevOps, etc. That book list is not exaustive and it can be update by desired people who want to contribute with good book recommendations to read
+# the-best-ever-books-IT-arch-software-development
+
+The best ever books IT Archtecture and Software Development area such as: Software Engineer, Software Architecture, Software Processes, Project Teams/Organization in Software, Software Development Patterns, Software Architecture Patterns, DevOps, etc. That book list is not exaustive and it can be update by desired people who want to contribute with good book recommendations to read
 
 
 ## Why do We believe sharing and recommending bestsellers books to read is a good idea?
@@ -16,11 +17,10 @@ The top bestselling books of all time in IT Software Development area such as: S
 3. [ Software Diverses ](#softwareDiverses)
 4. [ Tests ](#tests)
 5. [ TDD - Test-driven Development ](#tdd)
-6. [ BDD - Behaviour Driven Development ](#bdd)
-7. [ Development/Programming ](#developmentProgramming)
-8. [ SRE - Site Reliability Engineering ](#sre)
-9. [ DevOps](#devOps)
-10. [ Technologies/Frameworks ](#technologiesFrameworks)
+6. [ Development/Programming ](#developmentProgramming)
+7. [ SRE - Site Reliability Engineering ](#sre)
+8. [ DevOps](#devOps)
+9. [ Technologies/Frameworks ](#technologiesFrameworks)
 
 <a name="Microservices"></a>
 ## Microservices
@@ -47,55 +47,79 @@ The top bestselling books of all time in IT Software Development area such as: S
 
 <a name="tests"></a>
 ## Tests
+<img src="images/books/tests/EffectiveUnitTesting.jpg" width="250" heigth="150"/>
 
 <a name="tdd"></a>
 ## TDD - Test-driven Development
-
-<a name="bdd"></a>
-## BDD - Behaviour Driven Development
+<img src="images/books/tdd/TDD_TestDrivenDevelopment.jpg" width="250" heigth="150"/>
+<img src="images/books/tdd/TDD_TestDrivenPracticalJavaDevelopers.jpg" width="250" heigth="150"/>
 
 <a name="developmentProgramming"></a>
 ## Development/Programming
+<img src="images/books/development_programming/Refactoring.jpg" width="250" heigth="150"/>
+<img src="images/books/development_programming/TheCleanCode.jpg" width="250" heigth="150"/>
+<img src="images/books/development_programming/TheCleanCoder.jpg" width="250" heigth="150"/>
+<img src="images/books/development_programming/ThePragmaticProgrammer.jpg" width="250" heigth="150"/>
+<img src="images/books/development_programming/WorkingEffectivelyWithLegacyCode.jpg" width="250" heigth="150"/>
 
 <a name="sre"></a>
 ## SRE - Site Reliability Engineering
+<img src="images/books/sre/sre - google.jpg" width="250" heigth="150"/>
 
 <a name="devOps"></a>
 ## DevOps
+<img src="images/books/devops/TheScienceOfDevOpsAccelerate.jpg" width="250" heigth="150"/>
 
 <a name="technologiesFrameworks"></a>
 ## Technologies/Frameworks
   <a name="kafka"></a>
   - ### Kafka
+  <img src="images/books/technologies_frameworks_tools/KAFKA - The Definitive Guide.jpg" width="250" heigth="150"/>
   <a name="redis"></a>
   - ### Redis
-  <a name="mongoDb"></a>
-  - ### MongoDB
+  <img src="images/books/technologies_frameworks_tools/REDIS - The Definitive Guide.jpg" width="250" heigth="150"/>
 
 <a name="ddd"></a>
 ## DDD - Domain Driven Design
+<img src="images/books/ddd/DDD - Eric Evans.jpg" width="250" heigth="150"/>
+<img src="images/books/ddd/DDD - Implementing DDD - Vaughn Vernon.jpg" width="250" heigth="150"/>
+<img src="images/books/ddd/DDD Distilled - Vaughn Vernon.jpg" width="250" heigth="150"/>
 
 <a name="ci"></a>
 ## CI - Continuous Integration
+<img src="images/books/continuousIntegration/ContinuousIntegration.jpg" width="250" heigth="150"/>
 
 <a name="cd"></a>
 ## CD - Continuous Development
+<img src="images/books/continuousDevelopment/ContinuousDelivery.jpg" width="250" heigth="150"/>
 
 <a name="algorithms"></a>
 ## Algorithms
+<img src="images/books/algorithms/Algorithms - Cormen.jpg" width="250" heigth="150"/>
 
 <a name="programmingLanguages"></a>
 ## Programming Languages
   <a name="java"></a>
   - ### Java
+  <img src="images/books/programmingLanguages/java/effective-java-thirdEdition.jpg" width="250" heigth="150"/>
+  <img src="images/books/programmingLanguages/java/Java - ConcurrencyInPractice.jpg" width="250" heigth="150"/>
+  <img src="images/books/programmingLanguages/java/JavaPerformance-DefinitiveGuide.jpg" width="250" heigth="150"/>
+  
   <a name="python"></a>
   - ### Python
+  <img src="images/books/programmingLanguages/python/FluentPython.jpg" width="250" heigth="150"/>
 
 <a name="cloud"></a>
 ## Cloud
+  <img src="images/books/cloud/CloudNativePatterns.jpg" width="250" heigth="150"/>
+  
   <a name="csp"></a>
   - ### CSP - Cloud Service Provider
     <a name="azure"></a>
+    
     - #### Microsoft Azure
+    <img src="images/books/cloud/cloudServiceProvider/azure/LearnAzureInAMonthOfLunches.jpg" width="250" heigth="150"/>
+    <img src="images/books/cloud/cloudServiceProvider/azure/TheAzureCloudNativeArchitectureMapbook.jpg" width="250" heigth="150"/>
+    
     <a name="aws"></a>
     - #### AWS 
