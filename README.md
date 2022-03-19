@@ -1,6 +1,7 @@
 # the-best-ever-books-IT-arch-software-development
 
-The best ever books IT Archtecture and Software Development area such as: Software Engineer, Software Architecture, Software Processes, Project Teams/Organization in Software, Software Development Patterns, Software Architecture Patterns, DevOps, etc. That book list is not exaustive and it can be update by desired people who want to contribute with good book recommendations to read.
+The best ever books IT Archtecture and Software Development area such as: Software Engineer, Software Architecture, Software Processes, Project Teams/Organization in Software, Software Development Patterns, Software Architecture Patterns, DevOps, etc.
+That book list is not exaustive and it can be updated by people who are interested in contributing with good book recommendations to read.
 
 
 ## Why do we believe sharing and recommending bestsellers books to read is a good idea?
