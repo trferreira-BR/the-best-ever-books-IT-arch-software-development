@@ -1,15 +1,15 @@
 # the-best-ever-books-IT-arch-software-development
 
-The best ever books IT Archtecture and Software Development area such as: Software Engineer, Software Architecture, Software Processes, Project Teams/Organization in Software, Software Development Patterns, Software Architecture Patterns, DevOps, etc.
-That book list is not exaustive and it can be updated by people who are interested in contributing with good book recommendations to read.
+The best ever books IT Architecture and Software Development area such as: Software Engineer, Software Architecture, Software Processes, Project Teams/Organization in Software, Software Development Patterns, Software Architecture Patterns, DevOps, etc.
+That book list is not exaustive and it can be updated by people who are interested in contributing with good book recommendations.
 
 
-## Why do we believe sharing and recommending bestsellers books to read is a good idea?
-- Sharing with people who work in IT (regardless the level - junior, middle and senior) or with people who are starting their journey in IT area indicating the bestsellers books can help increase their knowledge and expertise in the IT software development.
+## Why do I believe sharing and recommending bestsellers IT books is a good idea?
+- Sharing with people who work in IT (regardless the level - junior, middle and senior) or sharing with people who are starting their journey in IT area indicating the bestsellers IT books can help increase their knowledge and expertise in the IT software development and architecture solutions.
 - When we think about forming new people in IT, It would be a great idea starting with good reads to give fundamentals.
-- The senniors people sharing what they know at work is great, but it might no be enough - short time to explain everything. So, we can consider books as a good way to start and help them the base.
+- The IT senniors might share what they know at work and it's great, but it might no be enough - short time to explain everything. So, we can consider books as a good way to start and help them the base and fundamentals.
 - It's a good option to learn with expertises sharing experiences, problems, hard lived situations and why they solve applicating something to solve. Giving a problem and after that some solutions is an opportunity to remember something and use in their jobs.
-- The base fundamentals of everything, and reasons why we do something nowadays certainly can be obtained throught good books and you IT student, worker and so on, find and take your own path.
+- The base fundamentals of everything, and reasons why we do something nowadays certainly can be obtained throught good books and you IT student, worker and so on, have to find and take your own path.
 
 ### Alert
 - The only proposal here is to list the classics books. Over here you won't get the book to be downloaded. You really recommend you google a title or more and find it for your self.
