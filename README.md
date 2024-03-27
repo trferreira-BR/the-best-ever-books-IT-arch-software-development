@@ -73,6 +73,7 @@ That book list is not exaustive and it can be updated by people who are interest
     <td><img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/crystalClear.jpg" width="250" heigth="150"/></td>
     <td><img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/Peopleware_ProductiveProjectsandTeams.jpg" width="250" heigth="150"/></td>
     <td><img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/ReleaseIt.jpg" width="250" heigth="150"/></td>
+    <td><img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/software_architecture_for_developers.jpg" width="250" heigth="150"/></td>
   </tr>
   <tr>
     <td><img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/SoftwareEngineeringAtGoogle.jpg" width="250" heigth="150"/></td>
