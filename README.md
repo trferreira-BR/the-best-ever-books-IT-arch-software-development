@@ -19,18 +19,20 @@ That book list is not exaustive and it can be updated by people who are interest
 
 1. [ Microservices ](#Microservices)
 2. [ Patterns ](#Patterns)
-3. [ Software Diverses ](#softwareDiverses)
-4. [ Tests ](#tests)
-5. [ TDD - Test-driven Development ](#tdd)
-6. [ Development/Programming ](#developmentProgramming)
-7. [ SRE - Site Reliability Engineering ](#sre)
-8. [ Technologies/Frameworks ](#technologiesFrameworks)
-9. [ DDD - Domain Driven Design ](#ddd)
-10. [ CI - Continuous Integration ](#ci)
-11. [ CD - Continuous Development ](#cd)
-12. [ Algorithms ](#algorithms)
-13. [ Programming Languages ](#programmingLanguages)
-14. [ Cloud ](#cloud)
+3. [ Architecture ](#Architecture)
+4. [ Software Diverses ](#softwareDiverses)
+5. [ Tests ](#tests)
+6. [ TDD - Test-driven Development ](#tdd)
+7. [ Development/Programming ](#developmentProgramming)
+8. [ SRE - Site Reliability Engineering ](#sre)
+9. [ API - Application Programming Interface ](#api)
+10. [ Technologies/Frameworks ](#technologiesFrameworks)
+11. [ DDD - Domain Driven Design ](#ddd)
+12. [ CI - Continuous Integration ](#ci)
+13. [ CD - Continuous Development ](#cd)
+14. [ Algorithms ](#algorithms)
+15. [ Programming Languages ](#programmingLanguages)
+16. [ Cloud ](#cloud)
 
 <a name="Microservices"></a>
 ## Microservices
@@ -39,6 +41,7 @@ That book list is not exaustive and it can be updated by people who are interest
     <td><img src="images/books/microservices/BuildingMicroservices-SanNewman.jpg" width="250" heigth="150"/></td>
     <td><img src="images/books/microservices/microservices-patterns.jpg" width="250" heigth="150"/></td>
     <td><img src="images/books/microservices/microservices-security-in-action.jpg" width="250" heigth="150"/></td>
+    <td><img src="images/books/microservices/productionReadyMicroservices.jpg" width="250" heigth="150"/></td>
   </tr>
 </table>
 
@@ -48,6 +51,16 @@ That book list is not exaustive and it can be updated by people who are interest
   <tr>
     <td><img src="images/books/patterns/EnterpriseIntegrationPatterns.jpg" width="250" heigth="150"/></td>
     <td><img src="images/books/patterns/PatternsOfEnterpriseApplicationArchitecture.jpg" width="250" heigth="150"/></td>
+  </tr>
+</table>
+
+<a name="Architecture"></a>
+## Architecture
+<table>
+  <tr>
+    <td><img src="images/books/architecture/cleanArchitecture.jpg" width="250" heigth="150"/></td>
+    <td><img src="images/books/architecture/theSoftwareArchitectElevator.jpg" width="250" heigth="150"/></td>
+    <td><img src="images/books/architecture/buildingEvolutionaryArchitectures.jpg" width="250" heigth="150"/></td>
   </tr>
 </table>
 
@@ -104,6 +117,14 @@ That book list is not exaustive and it can be updated by people who are interest
 <table>
   <tr>
     <td><img src="images/books/sre/sre - google.jpg" width="250" heigth="150"/></td>
+  </tr>
+</table>
+
+<a name="api"></a>
+## API - Application Programming Interface
+<table>
+  <tr>
+    <td><img src="images/books/api/TheDesignOfWebAPIs.jpg" width="250" heigth="150"/></td>
   </tr>
 </table>
 
