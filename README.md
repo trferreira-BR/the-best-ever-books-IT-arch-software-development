@@ -50,8 +50,8 @@ That book list is not exaustive and it can be updated by people who are interest
 ## Patterns
 <table>
   <tr>
-    <td><img src="images/books/patterns/EnterpriseIntegrationPatterns.jpg" width="250" heigth="150"/></td>
-    <td><img src="images/books/patterns/PatternsOfEnterpriseApplicationArchitecture.jpg" width="250" heigth="150"/></td>
+    <td><img src="images/books/patterns/EnterpriseIntegrationPatterns.jpg" width="150" heigth="150"/></td>
+    <td><img src="images/books/patterns/PatternsOfEnterpriseApplicationArchitecture.jpg" width="150" heigth="150"/></td>
   </tr>
 </table>
 
@@ -63,9 +63,9 @@ That book list is not exaustive and it can be updated by people who are interest
     <td><img src="images/books/architecture/theSoftwareArchitectElevator.jpg" width="250" heigth="150"/></td>
     <td><img src="images/books/architecture/buildingEvolutionaryArchitectures.jpg" width="250" heigth="150"/></td>
 	<td><img src="images/books/architecture/FundamentalsOfSoftwareArchitecture.jpg" width="250" heigth="150"/></td>
-	<td><img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/software_architecture_for_developers.jpg" width="250" heigth="150"/></td>
-	<td><img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/SoftwareSystemsArchitecture.jpg" width="250" heigth="150"/></td>
-	<td><img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/TechnologyStrategyPatterns.jpg" width="250" heigth="150"/></td>
+	<td><img src="images/books/architecture/software_architecture_for_developers.jpg" width="250" heigth="150"/></td>
+	<td><img src="images/books/architecture/SoftwareSystemsArchitecture.jpg" width="250" heigth="150"/></td>
+	<td><img src="images/books/architecture/TechnologyStrategyPatterns.jpg" width="250" heigth="150"/></td>
   </tr>
 </table>
 
