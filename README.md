@@ -1,6 +1,6 @@
 # the-best-ever-books-IT-arch-software-development
 
-The best ever books IT Architecture and Software Development area such as: Software Engineer, Software Architecture, Software Processes, Project Teams/Organization in Software, Software Development Patterns, Software Architecture Patterns, DevOps, etc.
+The best ever IT Software Architecture and Software Development books divided by: Software Engineer, Software Architecture, Software Processes, Project Teams/Organization in Software, Software Development Patterns, Software Architecture Patterns, DevOps, etc.
 That book list is not exaustive and it can be updated by people who are interested in contributing with good book recommendations.
 
 
@@ -9,17 +9,17 @@ That book list is not exaustive and it can be updated by people who are interest
 - When we think about forming new people in IT, It would be a great idea starting with good reads to give fundamentals.
 - The IT senniors might share what they know at work and it's great, but it might no be enough - short time to explain everything. So, we can consider books as a good way to start and help them the base and fundamentals.
 - It's a good option to learn with expertises sharing experiences, problems, hard lived situations and why they solve applicating something to solve. Giving a problem and after that some solutions is an opportunity to remember something and use in their jobs.
-- The base fundamentals of everything, and reasons why we do something nowadays certainly can be obtained throught good books and you IT student, worker and so on, have to find and take your own path.
+- The base fundamentals of everything, and reasons why we do something nowadays certainly can be obtained throught good books and you IT student, worker and so on, have to find it and take your own path.
 
 ### Alert
 - The only proposal here is to list the classics books. Over here you won't get the book to be downloaded. You really recommend you google a title or more and find it for your self.
-- Feel free to contribute through pull request.
+- Feel free to contribute through PR-Pull requests.
 
 ### Topics
 
 1. [ Microservices ](#Microservices)
 2. [ Patterns ](#Patterns)
-3. [ Architecture ](#Architecture)
+3. [ Software Architecture ](#Architecture)
 4. [ Software Diverses ](#softwareDiverses)
 5. [ Tests ](#tests)
 6. [ TDD - Test-driven Development ](#tdd)
@@ -42,6 +42,7 @@ That book list is not exaustive and it can be updated by people who are interest
     <td><img src="images/books/microservices/microservices-patterns.jpg" width="250" heigth="150"/></td>
     <td><img src="images/books/microservices/microservices-security-in-action.jpg" width="250" heigth="150"/></td>
     <td><img src="images/books/microservices/productionReadyMicroservices.jpg" width="250" heigth="150"/></td>
+	<td><img src="images/books/microservices/Microservices-AntiPatternsAndPitfalls.jpg" width="250" heigth="150"/></td>
   </tr>
 </table>
 
@@ -55,12 +56,16 @@ That book list is not exaustive and it can be updated by people who are interest
 </table>
 
 <a name="Architecture"></a>
-## Architecture
+## Software Architecture
 <table>
   <tr>
     <td><img src="images/books/architecture/cleanArchitecture.jpg" width="250" heigth="150"/></td>
     <td><img src="images/books/architecture/theSoftwareArchitectElevator.jpg" width="250" heigth="150"/></td>
     <td><img src="images/books/architecture/buildingEvolutionaryArchitectures.jpg" width="250" heigth="150"/></td>
+	<td><img src="images/books/architecture/FundamentalsOfSoftwareArchitecture.jpg" width="250" heigth="150"/></td>
+	<td><img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/software_architecture_for_developers.jpg" width="250" heigth="150"/></td>
+	<td><img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/SoftwareSystemsArchitecture.jpg" width="250" heigth="150"/></td>
+	<td><img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/TechnologyStrategyPatterns.jpg" width="250" heigth="150"/></td>
   </tr>
 </table>
 
@@ -73,7 +78,6 @@ That book list is not exaustive and it can be updated by people who are interest
     <td><img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/crystalClear.jpg" width="250" heigth="150"/></td>
     <td><img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/Peopleware_ProductiveProjectsandTeams.jpg" width="250" heigth="150"/></td>
     <td><img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/ReleaseIt.jpg" width="250" heigth="150"/></td>
-    <td><img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/software_architecture_for_developers.jpg" width="250" heigth="150"/></td>
   </tr>
   <tr>
     <td><img src="images/books/software_softwareProject_softwareProcesses_softwareEngineering/SoftwareEngineeringAtGoogle.jpg" width="250" heigth="150"/></td>
