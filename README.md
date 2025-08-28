@@ -68,6 +68,8 @@ It's a good option to learn with expertise, sharing experiences, problems, hard-
     <td><img src="images/books/architecture/buildingEvolutionaryArchitectures.jpg" width="250" heigth="150"/></td>
 	<td><img src="images/books/architecture/FundamentalsOfSoftwareArchitecture.jpg" width="250" heigth="150"/></td>
 	<td><img src="images/books/architecture/software_architecture_for_developers.jpg" width="250" heigth="150"/></td>
+  </tr>
+  <tr>
 	<td><img src="images/books/architecture/SoftwareSystemsArchitecture.jpg" width="250" heigth="150"/></td>
 	  <td><img src="images/books/architecture/TechnologyStrategyPatterns.jpg" width="250" heigth="150"/></td>
     <td><img src="images/books/architecture/DesigningDistributedSystems-BrendanBurns.jpg" width="250" heigth="150"></td>
