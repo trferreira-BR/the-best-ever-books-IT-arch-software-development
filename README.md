@@ -1,4 +1,4 @@
-#The best ever books about IT Software Architecture, Software Engineering, Software Development, Software Processes, Project Teams/Organization in Software, Software Development Patterns, and Software Architecture Patterns
+# The best ever books about IT Software Architecture, Software Engineering, Software Development, Software Processes, Project Teams/Organization in Software, Software Development Patterns, and Software Architecture Patterns
 
 That book list is not exhaustive, and it can be updated by people who are interested in contributing with good book recommendations.
 
