@@ -8,9 +8,9 @@ That book list is not exhaustive, and it can be updated by people who are intere
 
 - When we think about forming new people in IT, it would be a great idea to start with good reads to give fundamentals.
 
-The IT seniors might share what they know at work, and it's great, but it might not be enough - short time to explain everything. So, we can consider books as a good way to start and help them understand the basis and fundamentals.
+- The IT seniors might share what they know at work, and it's great, but it might not be enough - short time to explain everything. So, we can consider books as a good way to start and help them understand the basis and fundamentals.
 
-It's a good option to learn with expertise, sharing experiences, problems, hard-lived situations and why they solve applicating something to solve. Giving a problem and, after that, some solutions, is an opportunity to remember something and use it in their jobs.
+- It's a good option to learn with expertise, sharing experiences, problems, hard-lived situations and why they solve applicating something to solve. Giving a problem and, after that, some solutions, is an opportunity to remember something and use it in their jobs.
 
 - The fundamentals of everything, and the reasons why we do things nowadays, can certainly be obtained through good books and your IT students, workers and so on, have to find them and take your own path.
 
